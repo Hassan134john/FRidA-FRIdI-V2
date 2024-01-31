@@ -1,7 +1,7 @@
 {
 	"facebookAccount": {
-		"email": "",
-		"password": "",
+		"email": "hgg637134@gmail.com",
+		"password": "wwweee",
 		"2FASecret": "",
 		"i_user": "",
 		"proxy": null,
@@ -16,13 +16,13 @@
 		"enable": false,
 		"ignoreCommand": []
 	},
-	"adminBot": [],
+	"adminBot": [100087967063688],
 	"whiteListMode": {
 		"enable": false,
 		"whiteListIds": [],
 		"notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
 	},
-	"nickNameBot": "GoatBot",
+	"nickNameBot": "FIdA",
 	"prefix": "-",
 	"database": {
 		"type": "sqlite",
